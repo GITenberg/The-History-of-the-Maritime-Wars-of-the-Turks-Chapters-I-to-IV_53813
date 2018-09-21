@@ -1,0 +1,34 @@
+_repo: The-History-of-the-Maritime-Wars-of-the-Turks-Chapters-I-to-IV_53813
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mitchell, James
+    gutenberg_agent_id: '47552'
+    url: http://www.gutenberg.org/2009/agents/47552
+creator:
+  author:
+    agent_name: Kâtip Çelebi
+    aliases:
+    - Çelebi, Kâtip
+    - Katip Celebi
+    - Kâtib Çelebi
+    birthdate: 1609
+    deathdate: 1657
+    gutenberg_agent_id: '47551'
+    url: http://www.gutenberg.org/2009/agents/47551
+description: ''
+gutenberg_issued: '2016-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- History, Naval'
+- !lcc 'DR'
+- !lcsh 'Turkey -- History -- 1453-1683'
+- GITenberg
+title: The History of the Maritime Wars of the Turks. Chapters I. to IV.
+url: http://www.gutenberg.org/ebooks/53813
